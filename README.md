@@ -136,7 +136,7 @@ The dashboard reveals a healthy completed order rate (84.85%), indicating operat
 
 ## Targeted Marketing & Sales Strategies:
 
-**Mobile-First for Adults (30-59):** Prioritize mobile app development/optimization and responsive web design. Tailor marketing campaigns for mobile engagement (e.g., push notifications, mobile deals). This is the highest order volume segment.
+**Mobile preference for Adults (30-59):** Prioritize mobile app development/optimization and responsive web design. Tailor marketing campaigns for mobile engagement (e.g., push notifications, mobile deals). This is the highest order volume segment.
 
 **Premium Offers for Elderly (60, above):** Develop and market high-value products or services specifically for this segment, to compensate for their high average order value.
 
