@@ -168,3 +168,13 @@ Using Austin (TX) as an example. Analyzing what drives it's success and replicat
 **Implementing the CRM System** to better track customer interactions and personalize outreach.This enable a highly personalized and efficient customer engagement at scale. 
 
 **Monitoring the KPIs** (conversion rates, average order value per segment,etc) to track the impact of implemented recommendations.
+
+
+
+
+
+📊 **ANALYST**
+
+**ADEWALE IDOWU VICTOR**
+
+https://www.linkedin.com/in/adewale-idowu-0880a4164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
